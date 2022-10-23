@@ -6,3 +6,4 @@ This repository is built step by step in the tutorial.
 
 It nou includes steps for Github.
 ＋＋
+マイナス
